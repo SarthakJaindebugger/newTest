@@ -87,11 +87,7 @@ flutter:
   #CHANGE HERE TO ADD IMAGE
   assets:
     #- assets/images/background.jpeg
-<<<<<<< HEAD
     - assets/images/
-=======
-    - build/assets/images/
->>>>>>> 1407222319ff4beb8576fa629c60b84ddc7de59d
     #- assets/images/logo2.jpeg
   # assets:
   #   - images/a_dot_burr.jpeg
